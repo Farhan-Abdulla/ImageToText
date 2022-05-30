@@ -1,4 +1,4 @@
-Welcome to ImageToText!
+Welcome to ImageToText! This Program uses the GoogleTranss API and the OCR.space API
 
 To use this program, you will need:
 1. The path to your image you want to extract
